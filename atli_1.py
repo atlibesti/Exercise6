@@ -1,1 +1,1 @@
-print("cranking 90s")
+print("eitthvað")
