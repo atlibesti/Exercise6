@@ -1,1 +1,1 @@
-print('penis')
+print("cranking 90s")
